@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668389714665",
+    "project_id": "calendarschedule-87535",
+    "storage_bucket": "calendarschedule-87535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668389714665:android:cbb7a7deac65e1e16a5e78",
+        "android_client_info": {
+          "package_name": "com.example.meeting_scheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmvwVYdXTQ_OtR70hWLOcvDqaGn_oBGX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
